@@ -17,3 +17,5 @@ git add *.*
 ```shell 
 git commit "master commits"
 ```
+
+__by Ryu__
